@@ -1,0 +1,30 @@
+body{
+    background: var(--color-black);
+}
+a, li, ul, button, h1, p{
+    color: var(--color-white);
+}
+button{
+    color: var(--color-white);
+}
+h1{
+    text-align: center;
+}
+
+.white{
+    color: var(--color-white);
+}
+
+.width-group{
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.group1, p{
+    margin-left: 1rem;
+}
+.group1{
+    margin-bottom: 2rem;
+}
+.g2{
+    margin-top: 2rem;
+}

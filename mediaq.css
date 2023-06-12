@@ -1,0 +1,31 @@
+/** IPHONE 12/13 PRO MAX           428x926 */
+/*! IPAD PRO 12 INCH               1024x1366 */
+/*? MACBOOK AIR M2                 2560X1664 */
+
+
+
+
+/*! IPAD*/
+@media only screen and (min-width: 428px) {
+    .logo-size{
+        max-width: 3rem;
+    }
+
+    .tag{
+        margin-top: 3rem;
+        text-align: right;
+        margin-right: 2rem;
+    }
+
+    .drop-pos{
+        margin-top: -.6rem;
+    }
+
+}
+
+/*? PC*/
+@media only screen and (min-width: 1023px) {
+    .logo-size{
+        max-width: 5rem;
+    }
+}
