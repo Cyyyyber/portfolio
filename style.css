@@ -3,7 +3,9 @@
 /*? IPHONE 12/13 PRO MAX*/
 /*TODO IPHONE 12/13 PRO MAX*/
 
-
+*{
+    font-family: 'Futura PT', sans-serif;
+}
 :root{
 
     --font-noto-serif: font-family: 'Noto Serif';
@@ -26,7 +28,9 @@
 .logo-size{
     max-width: 2rem;
 }
-
+.tag{
+    margin-right: 15rem;
+}
 
 h6{
     font-family: var(--font-noto-serif);
@@ -41,9 +45,7 @@ h6{
     width: 14rem;
 }
 
-.tag{
-    text-align: center;
-}
+
 
 a, ul, li{
     font-family: var(--font-futura-s);
